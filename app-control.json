@@ -1,137 +1,51 @@
 {
-  "showNewFeature": true,
-  "timestamp": 1714407254,
-  "message": "WhoseeAnalyzer feature is active",
-  "celebrities": [
+  "ShowFeature": true,
+  "docsSections": [
     {
-      "id": "1",
-      "username": "cristiano",
-      "fullName": "Cristiano Ronaldo",
-      "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Al-Taawoun_FC_in_the_2022%E2%80%9323_Saudi_Pro_League_-_March_2023_%28cropped%29.jpg/220px-Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Al-Taawoun_FC_in_the_2022%E2%80%9323_Saudi_Pro_League_-_March_2023_%28cropped%29.jpg",
-      "followers": "600M",
-      "posts": 3456,
-      "engagement": "9.4%",
-      "avgLikes": "8.2M",
-      "personality": "Charismatic leader and perfectionist",
-      "traits": ["Competitive", "Disciplined", "Consistent", "Goal-oriented"],
-      "analysis": "His profile details and posts demonstrate his self-confidence and perfectionism. The account is professionally managed and shares motivational content with followers. High engagement rate makes him one of the most effective social media personalities."
+      "title": "Hakkımızda",
+      "icon": "Info",
+      "activeIcon": "Info",
+      "subSections": [
+        {
+          "title": "Archivex Nedir?",
+          "content": "Archivex, Türkiye'nin en büyük arşivi olarak bilgi ve belgeleri saklamak, korumak ve erişilebilir kılmak amacıyla hizmet veren bir platformdur. Geniş bir içerik yelpazesi ile kullanıcılarına doğru ve güvenilir bilgileri sunmayı amaçlar."
+        },
+        {
+          "title": "Vizyon & Misyon",
+          "content": "Archivex'in vizyonu, Türkiye'nin bilgi birikimini korumak ve gelecek nesillere aktarmaktır. Misyonumuz ise kullanıcı dostu bir platform üzerinden herkesin aradığı bilgiye kolay ve hızlı bir şekilde erişmesini sağlamaktır."
+        },
+        {
+          "title": "Ekibimiz",
+          "content": "Archivex, alanında uzman ve deneyimli bir ekip tarafından yönetilmektedir. Editörler, yazarlar, arşivciler ve teknoloji uzmanlarından oluşan ekibimiz, en doğru ve güncel bilgileri sizlere sunmak için çalışmaktadır."
+        }
+      ]
     },
     {
-      "id": "2",
-      "username": "kyliejenner",
-      "fullName": "Kylie Jenner",
-      "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kylie_Jenner_in_2021.jpg/220px-Kylie_Jenner_in_2021.jpg",
-      "followers": "380M",
-      "posts": 7123,
-      "engagement": "8.1%",
-      "avgLikes": "7.5M",
-      "personality": "Trendsetter and strategic businesswoman",
-      "traits": ["Innovative", "Entrepreneurial", "Fashion-forward", "Family-oriented"],
-      "analysis": "She effectively uses her profile to develop her personal brand. While sharing content supporting her cosmetic empire, she also showcases her family and luxury lifestyle. The color and theme consistency in her posts indicate a professional strategy."
-    },
-    {
-      "id": "3",
-      "username": "therock",
-      "fullName": "Dwayne Johnson",
-      "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dwayne_Johnson_2014_%28cropped%29.jpg/220px-Dwayne_Johnson_2014_%28cropped%29.jpg",
-      "followers": "378M",
-      "posts": 5823,
-      "engagement": "7.5%",
-      "avgLikes": "4.8M",
-      "personality": "Motivational and authentic leader",
-      "traits": ["Hard-working", "Positive", "Inspirational", "Humorous"],
-      "analysis": "His profile reflects his strong work ethic and positive approach. He creates content that motivates and inspires his followers. Sharing his sports and Hollywood life with an authentic approach makes him unique. Frequent responses to comments increase community engagement."
-    },
-    {
-      "id": "4",
-      "username": "beyonce",
-      "fullName": "Beyoncé",
-      "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png/220px-Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png",
-      "followers": "310M",
-      "posts": 2178,
-      "engagement": "6.4%",
-      "avgLikes": "4.2M",
-      "personality": "Strategic and controlled artist",
-      "traits": ["Perfectionist", "Visual storyteller", "Privacy-conscious", "Powerful"],
-      "analysis": "Her profile is aesthetically flawless and each post is a work of art. She shares her personal life in a controlled manner and follows a strategy that preserves her brand value. She produces content with social messages and demonstrates expertise in visual storytelling."
-    },
-    {
-      "id": "5",
-      "username": "leomessi",
-      "fullName": "Lionel Messi",
-      "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg/220px-Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg",
-      "followers": "490M",
-      "posts": 1042,
-      "engagement": "8.9%",
-      "avgLikes": "7.8M",
-      "personality": "Humble and family-oriented leader",
-      "traits": ["Calm", "Professional", "Consistent", "Modest"],
-      "analysis": "His profile reflects his modest nature and passion for football and family. He's a personality who speaks more through actions than words. Brand collaboration posts are done professionally while sharing personal life authentically."
-    },
-    {
-      "id": "6",
-      "username": "selenagomez",
-      "fullName": "Selena Gomez",
-      "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Selena_Gomez_at_the_2023_Golden_Globe_Awards.png/220px-Selena_Gomez_at_the_2023_Golden_Globe_Awards.png",
-      "followers": "420M",
-      "posts": 1842,
-      "engagement": "7.8%",
-      "avgLikes": "6.5M",
-      "personality": "Authentic and mental health advocate",
-      "traits": ["Genuine", "Influential", "Resilient", "Compassionate"],
-      "analysis": "Her profile reflects her journey in the entertainment industry while advocating for mental health awareness. She balances professional content with glimpses into her personal life. The authentic approach to sharing her challenges has created a strong connection with her audience."
-    },
-    {
-      "id": "7",
-      "username": "kimkardashian",
-      "fullName": "Kim Kardashian",
-      "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kim_Kardashian_at_the_2023_Time_100_Gala_%28cropped%29.jpg/220px-Kim_Kardashian_at_the_2023_Time_100_Gala_%28cropped%29.jpg",
-      "followers": "355M",
-      "posts": 5678,
-      "engagement": "6.2%",
-      "avgLikes": "3.8M",
-      "personality": "Strategic business mogul and influencer",
-      "traits": ["Business-minded", "Trendsetter", "Media-savvy", "Persistent"],
-      "analysis": "Her profile showcases her business ventures and luxury lifestyle. She strategically uses her platform to promote her various brands and projects. Each post is carefully curated to maintain her public image while engaging with current trends and cultural moments."
-    },
-    {
-      "id": "8",
-      "username": "arianagrande",
-      "fullName": "Ariana Grande",
-      "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ariana_Grande_by_Dave_Meyers_%282023%29.png/220px-Ariana_Grande_by_Dave_Meyers_%282023%29.png",
-      "followers": "370M",
-      "posts": 4890,
-      "engagement": "7.1%",
-      "avgLikes": "5.2M",
-      "personality": "Passionate artist with strong branding",
-      "traits": ["Artistic", "Dedicated", "Emotionally expressive", "Distinctive"],
-      "analysis": "Her profile highlights her musical journey and artistic evolution. She has developed a distinct visual and musical style that resonates with her fan base. Her authentic engagement with followers and willingness to share personal moments alongside professional milestones creates a balanced content strategy."
-    },
-    {
-      "id": "9",
-      "username": "natgeo",
-      "fullName": "National Geographic",
-      "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_National_Geographic_Magazine_Logo.svg/220px-The_National_Geographic_Magazine_Logo.svg.png",
-      "followers": "280M",
-      "posts": 26457,
-      "engagement": "4.5%",
-      "avgLikes": "2.3M",
-      "personality": "Educational and visually stunning",
-      "traits": ["Informative", "Visual storytelling", "Global perspective", "Educational"],
-      "analysis": "As one of the top non-individual Instagram accounts, their profile showcases breathtaking photography and educational content. Each post tells a compelling story about our world, combining visual impact with informative captions. Their consistent aesthetic and educational mission create a strong brand identity."
-    },
-    {
-      "id": "10",
-      "username": "nike",
-      "fullName": "Nike",
-      "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/220px-Logo_NIKE.svg.png",
-      "followers": "278M",
-      "posts": 1289,
-      "engagement": "3.8%",
-      "avgLikes": "1.9M",
-      "personality": "Inspirational and performance-driven",
-      "traits": ["Motivational", "Athlete-focused", "Innovative", "Aspirational"],
-      "analysis": "Their profile masterfully balances product promotion with inspirational content. By featuring athletes and everyday people, they create relatable yet aspirational content. Their strategic approach to storytelling builds brand loyalty while showcasing their products in authentic contexts."
+      "title": "Kategoriler",
+      "icon": "Archive",
+      "activeIcon": "Archive",
+      "subSections": [
+        {
+          "title": "Sağlık",
+          "content": "Sağlık kategorimizde, beslenme, hastalıklar, tedavi yöntemleri ve sağlıklı yaşam hakkında bilgilendirici içerikler bulabilirsiniz. Uzman görüşleri ve güncel araştırmalarla desteklenen makalelerimiz, sağlığınız için faydalı bilgiler sunar."
+        },
+        {
+          "title": "Hukuk",
+          "content": "Hukuk kategorimizde, Türk hukuk sistemi, kanunlar, yasal haklarınız ve güncel mevzuat değişiklikleri hakkında bilgilendirici içerikler bulabilirsiniz. Hukuki konularda başvurabileceğiniz bir rehber niteliğindedir."
+        },
+        {
+          "title": "Eğitim",
+          "content": "Eğitim kategorimizde, öğrenciler, öğretmenler ve veliler için faydalı bilgiler, eğitim sistemi hakkında güncel gelişmeler ve sınav bilgileri yer almaktadır. Eğitim hayatınızı kolaylaştıracak içerikler sunuyoruz."
+        },
+        {
+          "title": "Teknoloji",
+          "content": "Teknoloji kategorimizde, dijital dünyada yaşanan gelişmeler, yeni çıkan teknolojik ürünler, yazılım ve donanım haberleri yer almaktadır. Teknoloji dünyasını yakından takip edebileceğiniz içerikler sunuyoruz."
+        },
+        {
+          "title": "Saklı haberler (Yakında)",
+          "content": ""
+        }
+      ]
     }
   ]
 }
