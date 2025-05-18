@@ -1,0 +1,51 @@
+{
+  "ShowFeature": true,
+  "docsSections": [
+    {
+      "title": "Hakkımızda",
+      "icon": "Info",
+      "activeIcon": "Info",
+      "subSections": [
+        {
+          "title": "Archivex Nedir?",
+          "content": "Archivex, Türkiye'nin en büyük arşivi olarak bilgi ve belgeleri saklamak, korumak ve erişilebilir kılmak amacıyla hizmet veren bir platformdur. Geniş bir içerik yelpazesi ile kullanıcılarına doğru ve güvenilir bilgileri sunmayı amaçlar."
+        },
+        {
+          "title": "Vizyon & Misyon",
+          "content": "Archivex'in vizyonu, Türkiye'nin bilgi birikimini korumak ve gelecek nesillere aktarmaktır. Misyonumuz ise kullanıcı dostu bir platform üzerinden herkesin aradığı bilgiye kolay ve hızlı bir şekilde erişmesini sağlamaktır."
+        },
+        {
+          "title": "Ekibimiz",
+          "content": "Archivex, alanında uzman ve deneyimli bir ekip tarafından yönetilmektedir. Editörler, yazarlar, arşivciler ve teknoloji uzmanlarından oluşan ekibimiz, en doğru ve güncel bilgileri sizlere sunmak için çalışmaktadır."
+        }
+      ]
+    },
+    {
+      "title": "Kategoriler",
+      "icon": "Archive",
+      "activeIcon": "Archive",
+      "subSections": [
+        {
+          "title": "Sağlık",
+          "content": "Sağlık kategorimizde, beslenme, hastalıklar, tedavi yöntemleri ve sağlıklı yaşam hakkında bilgilendirici içerikler bulabilirsiniz. Uzman görüşleri ve güncel araştırmalarla desteklenen makalelerimiz, sağlığınız için faydalı bilgiler sunar."
+        },
+        {
+          "title": "Hukuk",
+          "content": "Hukuk kategorimizde, Türk hukuk sistemi, kanunlar, yasal haklarınız ve güncel mevzuat değişiklikleri hakkında bilgilendirici içerikler bulabilirsiniz. Hukuki konularda başvurabileceğiniz bir rehber niteliğindedir."
+        },
+        {
+          "title": "Eğitim",
+          "content": "Eğitim kategorimizde, öğrenciler, öğretmenler ve veliler için faydalı bilgiler, eğitim sistemi hakkında güncel gelişmeler ve sınav bilgileri yer almaktadır. Eğitim hayatınızı kolaylaştıracak içerikler sunuyoruz."
+        },
+        {
+          "title": "Teknoloji",
+          "content": "Teknoloji kategorimizde, dijital dünyada yaşanan gelişmeler, yeni çıkan teknolojik ürünler, yazılım ve donanım haberleri yer almaktadır. Teknoloji dünyasını yakından takip edebileceğiniz içerikler sunuyoruz."
+        },
+        {
+          "title": "Saklı haberler (Yakında)",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}
